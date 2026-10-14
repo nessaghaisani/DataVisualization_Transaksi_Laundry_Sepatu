@@ -1,0 +1,121 @@
+id_order,nama_pelanggan,tanggal_order,jenis_sepatu,bahan_sepatu,tingkat_kekotoran,jenis_layanan,lama_pengerjaan,biaya_rp,kasir,bulan_order,kategori_biaya,estimasi_lama_hari
+CS001,Maya,2026-03-21,Sepatu Futsal,Mesh,Berat,Cuci Reguler,24 jam,48000,Bang Bagus,March,Rendah,1.0
+CS002,Maya,2026-06-18,Sneakers,Kanvas,Ringan,Cuci Reguler,24 jam,36000,Mba Ayu,June,Rendah,1.0
+CS003,Dani,2026-01-08,Sneakers,Kanvas,Ringan,Unyellowing,24 jam,0,Bang Bagus,January,Rendah,1.0
+CS004,Maya,2026-04-18,Sepatu Futsal,Kulit,Sedang,Repaint,3 jam,143000,Bang Bagus,April,Tinggi,0.12
+CS005,Dea,2026-05-26,Sepatu Kanvas,Kanvas,Sedang,Repaint,13 jam,86000,Bang Bagus,May,Sedang,0.54
+CS006,Fania,2026-01-20,Sepatu Kulit,Kulit,Ringan,Repaint,24 jam,131000,Bang Bagus,January,Tinggi,1.0
+CS007,Rakhis,2026-04-06,Sepatu Sekolah,Kanvas,Ringan,Unyellowing,3 jam,34000,Kak Rian,April,Rendah,0.12
+CS008,Dea,2026-05-23,Boots,Mesh,Ringan,Repaint,24 jam,120000,Bang Dedi,May,Tinggi,1.0
+CS009,Maya,2026-05-24,Sneakers,Kulit,Sedang,Deep Clean,72 jam,109000,Kak Rian,May,Tinggi,3.0
+CS010,Isa,2026-05-26,Boots,Kanvas,Ringan,Cuci Reguler,72 jam,49000,Bang Bagus,May,Rendah,3.0
+CS011,Nessa,2026-04-12,Sneakers,Kanvas,Ringan,Unyellowing,3 jam,27000,Bang Bagus,April,Rendah,0.12
+CS012,Audrey,2026-05-17,Sneakers,Suede,Berat,Deep Clean,3 jam,127000,Bang Bagus,May,Tinggi,0.12
+CS013,Radit,2026-01-01,Sneakers,Kanvas,Sedang,Cuci Reguler,48 jam,30000,Mba Ayu,January,Rendah,2.0
+CS014,Nessa,2026-04-12,Boots,Suede,Berat,Deep Clean,22 jam,130000,Kak Rian,April,Tinggi,0.92
+CS015,Dau,2026-04-25,Sneakers,Suede,Ringan,Deep Clean,24 jam,132000,Bang Dedi,April,Tinggi,1.0
+CS016,Rakhis,2026-04-22,Sepatu Kulit,Kulit,Berat,Deep Clean,24 jam,109000,Bang Dedi,April,Tinggi,1.0
+CS017,Zahra,2026-02-25,Sepatu Futsal,Kanvas,Ringan,Repaint,24 jam,102000,Bang Bagus,February,Tinggi,1.0
+CS018,Fania,2026-04-19,Sepatu Kanvas,Kanvas,Ringan,Deep Clean,24 jam,117000,Kak Rian,April,Tinggi,1.0
+CS019,Dea,2026-04-14,Sepatu Futsal,Mesh,Berat,Deep Clean,3 jam,147000,Bang Bagus,April,Tinggi,0.12
+CS020,Brily,2026-04-20,Sneakers,Kanvas,Ringan,Unyellowing,48 jam,41000,Kak Rian,April,Rendah,2.0
+CS021,Nessa,2026-04-19,Sneakers,Kulit,Ringan,Cuci Reguler,24 jam,34000,Bang Bagus,April,Rendah,1.0
+CS022,Dani,2026-01-26,Sepatu Kulit,Kanvas,Ringan,Cuci Reguler,3 jam,41000,Bang Bagus,January,Rendah,0.12
+CS023,Moren,2026-05-06,Sneakers,Suede,Ringan,Deep Clean,24 jam,139000,Mba Ayu,May,Tinggi,1.0
+CS024,Radit,2026-03-21,Sepatu Sekolah,Kanvas,Ringan,Unyellowing,24 jam,44000,Bang Dedi,March,Rendah,1.0
+CS025,Nessa,2026-03-05,Sneakers,Kanvas,Berat,Cuci Reguler,24 jam,31000,Bang Bagus,March,Rendah,1.0
+CS026,Fania,2026-04-12,Sneakers,Suede,Berat,Deep Clean,24 jam,105000,Kak Rian,April,Tinggi,1.0
+CS027,Rakhis,2026-05-16,Sneakers,Kanvas,Berat,Repaint,24 jam,82000,Bang Bagus,May,Sedang,1.0
+CS028,Brily,2026-04-12,Sneakers,Kanvas,Ringan,Cuci Reguler,24 jam,102000,Kak Rian,April,Tinggi,1.0
+CS029,Audrey,2026-04-12,Sneakers,Kanvas,Ringan,Repaint,24 jam,123000,Bang Bagus,April,Tinggi,1.0
+CS030,Moren,2026-05-23,Boots,Kulit,Berat,Unyellowing,19 jam,35000,Bang Bagus,May,Rendah,0.79
+CS031,Fania,2026-04-04,Sneakers,Kanvas,Ringan,Unyellowing,24 jam,37000,Bang Bagus,April,Rendah,1.0
+CS032,Arsel,2026-01-09,Sepatu Sekolah,Suede,Berat,Deep Clean,24 jam,117000,Bang Bagus,January,Tinggi,1.0
+CS033,Maya,2026-05-16,Sepatu Kanvas,Kulit,Berat,Unyellowing,18 jam,43000,Bang Bagus,May,Rendah,0.75
+CS034,Brily,2026-03-07,Sneakers,Kanvas,Berat,Cuci Reguler,23 jam,35000,Bang Bagus,March,Rendah,0.96
+CS035,Zahra,2026-06-07,Sneakers,Kanvas,Ringan,Cuci Reguler,3 jam,44000,Bang Bagus,June,Rendah,0.12
+CS036,Dea,2026-01-18,Sepatu Sekolah,Kulit,Berat,Unyellowing,24 jam,23000,Bang Bagus,January,Rendah,1.0
+CS037,Fania,2026-05-20,Sneakers,Kanvas,Ringan,Repaint,13 jam,121000,Mba Ayu,May,Tinggi,0.54
+CS038,Dani,2026-04-12,Boots,Suede,Ringan,Deep Clean,24 jam,119000,Bang Bagus,April,Tinggi,1.0
+CS039,Dea,2026-04-13,Boots,Kulit,Berat,Deep Clean,48 jam,115000,Bang Bagus,April,Tinggi,2.0
+CS040,Audrey,2026-04-12,Sepatu Kanvas,Kanvas,Ringan,Deep Clean,3 jam,133000,Bang Bagus,April,Tinggi,0.12
+CS041,Fania,2026-09-03,Sepatu Sekolah,Kulit,Ringan,Repaint,24 jam,102000,Bang Dedi,September,Tinggi,1.0
+CS042,Isa,2026-03-17,Sepatu Kanvas,Kanvas,Ringan,Repaint,48 jam,84000,Mba Ayu,March,Sedang,2.0
+CS043,Fania,2026-06-17,Sneakers,Kanvas,Berat,Deep Clean,48 jam,102000,Bang Bagus,June,Tinggi,2.0
+CS044,Maya,2026-02-14,Sneakers,Mesh,Sedang,Deep Clean,48 jam,118000,Mba Ayu,February,Tinggi,2.0
+CS045,Nessa,2026-02-15,Sepatu Kanvas,Kanvas,Ringan,Cuci Reguler,24 jam,32000,Bang Dedi,February,Rendah,1.0
+CS046,Fania,2026-03-17,Sepatu Kulit,Kulit,Berat,Repaint,72 jam,128000,Kak Rian,March,Tinggi,3.0
+CS047,Audrey,2026-03-24,Boots,Suede,Berat,Deep Clean,48 jam,135000,Mba Ayu,March,Tinggi,2.0
+CS048,Dani,2026-02-04,Sepatu Futsal,Mesh,Sedang,Cuci Reguler,24 jam,42000,Bang Bagus,February,Rendah,1.0
+CS049,Nessa,2026-05-14,Boots,Kulit,Berat,Deep Clean,18 jam,140000,Mba Ayu,May,Tinggi,0.75
+CS050,Dau,2026-02-27,Sepatu Sekolah,Kulit,Berat,Repaint,19 jam,92000,Bang Bagus,February,Sedang,0.79
+CS051,Fania,2026-07-24,Sepatu Futsal,Mesh,Ringan,Cuci Reguler,24 jam,46000,Bang Bagus,July,Rendah,1.0
+CS052,Maya,2026-03-28,Sneakers,Kanvas,Ringan,Cuci Reguler,48 jam,48000,Kak Rian,March,Rendah,2.0
+CS053,Moren,2026-07-28,Sneakers,Kanvas,Sedang,Cuci Reguler,3 jam,46000,Kak Rian,July,Rendah,0.12
+CS054,Radit,2026-07-19,Sepatu Kulit,Kulit,Ringan,Unyellowing,24 jam,39000,Bang Bagus,July,Rendah,1.0
+CS055,Dea,2026-02-08,Sneakers,Suede,Berat,Deep Clean,24 jam,137000,Mba Ayu,February,Tinggi,1.0
+CS056,Nessa,2026-05-22,Sepatu Kanvas,Kanvas,Berat,Unyellowing,72 jam,31000,Bang Dedi,May,Rendah,3.0
+CS057,Dau,2026-01-05,Sepatu Kanvas,Kanvas,Berat,Cuci Reguler,13 jam,38000,Kak Rian,January,Rendah,0.54
+CS058,Rina,2026-04-25,Boots,Kulit,Ringan,Unyellowing,22 jam,38000,Mba Ayu,April,Rendah,0.92
+CS059,Lestari,2026-04-23,Boots,Kanvas,Berat,Deep Clean,48 jam,108000,Mba Ayu,April,Tinggi,2.0
+CS060,Arsel,2026-05-29,Boots,Kanvas,Berat,Unyellowing,24 jam,25000,Bang Bagus,May,Rendah,1.0
+CS061,Nessa,2026-05-27,Sepatu Sekolah,Kulit,Ringan,Deep Clean,3 jam,139000,Bang Bagus,May,Tinggi,0.12
+CS062,Lestari,2026-04-01,Sneakers,Kanvas,Berat,Unyellowing,24 jam,43000,Bang Bagus,April,Rendah,1.0
+CS063,Dau,2026-04-05,Sepatu Sekolah,Suede,Ringan,Repaint,3 jam,110000,Bang Dedi,April,Tinggi,0.12
+CS064,Nadia,2026-03-14,Boots,Suede,Berat,Unyellowing,24 jam,41000,Bang Bagus,March,Rendah,1.0
+CS065,Dea,2026-05-30,Sepatu Sekolah,Kanvas,Berat,Cuci Reguler,3 jam,41000,Mba Ayu,May,Rendah,0.12
+CS066,Fania,2026-05-26,Boots,Suede,Ringan,Deep Clean,3 jam,136000,Bang Bagus,May,Tinggi,0.12
+CS067,Rina,2026-04-07,Sneakers,Kanvas,Ringan,Deep Clean,24 jam,137000,Kak Rian,April,Tinggi,1.0
+CS068,Audrey,2026-06-29,Sepatu Kanvas,Kulit,Ringan,Unyellowing,24 jam,38000,Bang Bagus,June,Rendah,1.0
+CS069,Putri,2026-04-14,Sneakers,Kulit,Berat,Deep Clean,24 jam,113000,Bang Bagus,April,Tinggi,1.0
+CS070,Rizky,2026-03-06,Sneakers,Kanvas,Ringan,Cuci Reguler,72 jam,43000,Bang Bagus,March,Rendah,3.0
+CS071,Radit,2026-01-03,Sneakers,Suede,Berat,Unyellowing,48 jam,30000,Bang Dedi,January,Rendah,2.0
+CS072,Putri,2026-07-12,Sneakers,Suede,Berat,Repaint,72 jam,127000,Bang Bagus,July,Tinggi,3.0
+CS073,Dau,2026-05-19,Boots,Suede,Berat,Cuci Reguler,24 jam,41000,Bang Bagus,May,Rendah,1.0
+CS074,Dau,2026-06-06,Sneakers,Kanvas,Berat,Deep Clean,24 jam,124000,Kak Rian,June,Tinggi,1.0
+CS075,Nessa,2026-01-14,Sneakers,Kanvas,Ringan,Unyellowing,3 jam,31000,Mba Ayu,January,Rendah,0.12
+CS076,Bayu,2026-05-19,Sneakers,Mesh,Ringan,Deep Clean,24 jam,113000,Bang Dedi,May,Tinggi,1.0
+CS077,Rizky,2026-03-07,Sneakers,Kanvas,Sedang,Repaint,3 jam,133000,Kak Rian,March,Tinggi,0.12
+CS078,Zahra,2026-04-27,Sepatu Kanvas,Kanvas,Ringan,Cuci Reguler,72 jam,38000,Bang Bagus,April,Rendah,3.0
+CS079,Yoga,2026-03-14,Sneakers,Kanvas,Berat,Deep Clean,72 jam,109000,Bang Bagus,March,Tinggi,3.0
+CS080,Bayu,2026-02-05,Boots,Suede,Sedang,Repaint,3 jam,97000,Bang Bagus,February,Sedang,0.12
+CS081,Rina,2026-03-14,Sepatu Kulit,Kulit,Ringan,Deep Clean,24 jam,126000,Kak Rian,March,Tinggi,1.0
+CS082,Fikri,2026-06-08,Sneakers,Kanvas,Berat,Cuci Reguler,24 jam,38000,Bang Bagus,June,Rendah,1.0
+CS083,Rakhis,2026-05-21,Boots,Suede,Ringan,Unyellowing,24 jam,28000,Mba Ayu,May,Rendah,1.0
+CS084,Gilang,2026-05-08,Sepatu Futsal,Mesh,Ringan,Repaint,3 jam,83000,Bang Bagus,May,Sedang,0.12
+CS085,Alya,2026-09-08,Sepatu Kanvas,Kulit,Berat,Unyellowing,24 jam,34000,Bang Bagus,September,Rendah,1.0
+CS086,Rakhis,2026-03-06,Sepatu Futsal,Mesh,Ringan,Cuci Reguler,48 jam,50000,Kak Rian,March,Rendah,2.0
+CS087,Dea,2026-05-03,Sepatu Futsal,Kulit,Berat,Unyellowing,24 jam,24000,Bang Bagus,May,Rendah,1.0
+CS088,Dau,2026-05-19,Sneakers,Suede,Ringan,Unyellowing,24 jam,45000,Bang Bagus,May,Rendah,1.0
+CS089,Isa,2026-01-24,Boots,Kanvas,Berat,Repaint,72 jam,95000,Bang Bagus,January,Sedang,3.0
+CS090,Dau,2026-05-12,Sneakers,Suede,Berat,Deep Clean,48 jam,125000,Bang Bagus,May,Tinggi,2.0
+CS091,Isa,2026-07-29,Sepatu Kulit,Kulit,Berat,Repaint,72 jam,127000,Mba Ayu,July,Tinggi,3.0
+CS092,Nadia,2026-08-17,Boots,Mesh,Ringan,Deep Clean,3 jam,108000,Kak Rian,August,Tinggi,0.12
+CS093,Hendra,2026-05-05,Sepatu Sekolah,Suede,Ringan,Deep Clean,24 jam,145000,Bang Bagus,May,Tinggi,1.0
+CS094,Brily,2026-04-30,Sneakers,Suede,Ringan,Deep Clean,24 jam,114000,Bang Bagus,April,Tinggi,1.0
+CS095,Dau,2026-06-03,Sneakers,Kanvas,Berat,Unyellowing,24 jam,25000,Mba Ayu,June,Rendah,1.0
+CS096,Fikri,2026-08-24,Sneakers,Kanvas,Ringan,Cuci Reguler,24 jam,40000,Kak Rian,August,Rendah,1.0
+CS097,Radit,2026-04-26,Sneakers,Kanvas,Ringan,Unyellowing,48 jam,34000,Kak Rian,April,Rendah,2.0
+CS098,Dani,2026-03-27,Boots,Kulit,Berat,Cuci Reguler,24 jam,33000,Mba Ayu,March,Rendah,1.0
+CS099,Rakhis,2026-03-15,Boots,Suede,Ringan,Deep Clean,24 jam,124000,Kak Rian,March,Tinggi,1.0
+CS100,Isa,2026-08-28,Boots,Suede,Ringan,Deep Clean,24 jam,138000,Kak Rian,August,Tinggi,1.0
+CS101,Tiara,2026-06-01,Sepatu Sekolah,Kulit,Ringan,Repaint,3 jam,133000,Bang Bagus,June,Tinggi,0.12
+CS102,Hendra,2026-04-02,Sneakers,Kanvas,Sedang,Unyellowing,48 jam,38000,Mba Ayu,April,Rendah,2.0
+CS103,Putri,2026-05-12,Sepatu Kanvas,Kulit,Ringan,Repaint,24 jam,117000,Bang Bagus,May,Tinggi,1.0
+CS104,Hendra,2026-03-22,Boots,Suede,Ringan,Deep Clean,18 jam,136000,Bang Bagus,March,Tinggi,0.75
+CS105,Brily,2026-08-02,Boots,Kulit,Berat,Cuci Reguler,3 jam,38000,Bang Bagus,August,Rendah,0.12
+CS106,Yoga,2026-03-16,Sepatu Kulit,Kanvas,Berat,Repaint,24 jam,126000,Bang Bagus,March,Tinggi,1.0
+CS107,Nadia,2026-07-15,Sepatu Futsal,Mesh,Ringan,Deep Clean,48 jam,123000,Bang Bagus,July,Tinggi,2.0
+CS108,Rakhis,2026-06-21,Sepatu Futsal,Mesh,Ringan,Deep Clean,24 jam,111000,Kak Rian,June,Tinggi,1.0
+CS109,Salsa,2026-05-16,Sepatu Sekolah,Kanvas,Ringan,Deep Clean,24 jam,135000,Bang Bagus,May,Tinggi,1.0
+CS110,Moren,2026-04-13,Sneakers,Mesh,Berat,Deep Clean,22 jam,140000,Kak Rian,April,Tinggi,0.92
+CS111,Kirana,2026-04-26,Sepatu Kulit,Kulit,Ringan,Cuci Reguler,48 jam,34000,Mba Ayu,April,Rendah,2.0
+CS112,Fikri,2026-04-20,Sepatu Sekolah,Kanvas,Berat,Unyellowing,24 jam,43000,Kak Rian,April,Rendah,1.0
+CS113,Audrey,2026-05-26,Sepatu Kanvas,Kanvas,Ringan,Deep Clean,48 jam,144000,Kak Rian,May,Tinggi,2.0
+CS114,Fania,2026-02-06,Sepatu Sekolah,Suede,Ringan,Deep Clean,24 jam,129000,Bang Bagus,February,Tinggi,1.0
+CS115,Maya,2026-03-17,Sneakers,Kanvas,Sedang,Cuci Reguler,24 jam,30000,Bang Bagus,March,Rendah,1.0
+CS116,Dau,2026-04-02,Boots,Mesh,Ringan,Deep Clean,24 jam,109000,Bang Bagus,April,Tinggi,1.0
+CS117,Rina,2026-07-03,Sepatu Kanvas,Kanvas,Ringan,Repaint,3 jam,106000,Bang Bagus,July,Tinggi,0.12
+CS118,Zahra,2026-05-28,Sepatu Futsal,Mesh,Ringan,Unyellowing,18 jam,28000,Bang Bagus,May,Rendah,0.75
+CS119,Zahra,2026-01-29,Sepatu Futsal,Kanvas,Berat,Repaint,24 jam,143000,Bang Bagus,January,Tinggi,1.0
+CS120,Audrey,2026-05-07,Sepatu Sekolah,Kanvas,Berat,Repaint,3 jam,108000,Bang Dedi,May,Tinggi,0.12
